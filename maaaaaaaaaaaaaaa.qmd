@@ -6,4 +6,15 @@ editor: visual
 
 ## 
 
-this.is.a.change
+ok im making changes right now
+
+the conen show......
+
+```{r}
+plot(cars)
+summary(cars)
+```
+
+```{r}
+plot(mtcars)
+```
