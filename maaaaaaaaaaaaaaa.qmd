@@ -16,5 +16,9 @@ summary(cars)
 ```
 
 ```{r}
+x = 3
+```
+
+```{r}
 plot(mtcars)
 ```
